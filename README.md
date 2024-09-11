@@ -80,15 +80,16 @@ Cliente: React, Next.JS,
 Server:  C# .NET 8.
   
 # Pessoas Contribuidoras:
-Grupo 27 
-Alexandre Costa.
-Carlos Eduardo Felipe de Oliveira 
-Alexandre Costa.
+Grupo 27 </br>
+Alexandre Costa.</br>
+Carlos Eduardo Felipe de Oliveira </br>
+
   
 # Pessoas Desenvolvedoras do Projeto: 
-Grupo 27 
-Alexandre Costa.
-Carlos Eduardo Felipe de Oliveira 
+</br>
+Grupo 27 </br>
+Alexandre Costa.</br>
+Carlos Eduardo Felipe de Oliveira </br>
 
 
 # Licença:
