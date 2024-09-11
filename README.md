@@ -1,6 +1,7 @@
 # Modulo Cliente - Entrega Tec Chalenge 5 
 Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega Tec Chalenge 5 
 
+![pexels-pixabay-534216](https://github.com/user-attachments/assets/4cbe0e8e-7614-4a6c-aacd-6b863a31147b)
 
 
     Título e Imagem de capa;
