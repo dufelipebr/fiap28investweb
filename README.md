@@ -84,8 +84,8 @@ Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
   
 # Tecnologias utilizadas:
 
-Cliente: React, Next.JS </br>
-Server:  C# .NET 8. </br> Entity Framework </br> Sql Server </br>
+<li>Cliente:</li> React, Next.JS </br>
+<li>Server:</li>  C# .NET 8. </br> Entity Framework </br> Sql Server </br>
   
 # Pessoas Contribuidoras:
 Grupo 27 </br>
