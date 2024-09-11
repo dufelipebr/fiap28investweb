@@ -6,6 +6,8 @@ Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega T
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Cliente&message=Next.Js&color=GREEN&style=for-the-badge)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Server&message=CSharp8&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Database&message=SqlServer&color=GREEN&style=for-the-badge)
+
 
 
 
