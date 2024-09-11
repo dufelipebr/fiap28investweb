@@ -12,8 +12,10 @@ Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega T
 
 Esse projeto é o trabalho de conclusão do modulo 5 da FIAP PosTech grupo 27 realizados por Carlos E. F. de Oliveira e Alexandre Costa. 
 O objetivo é demonstrar a capacidade de implementar um portal de investimentos utilizando os recursos passados em aula, colocando em pratica o desenvolvimento de Clean Architecture, EF Framework, API & Microservices. 
+
 O projeto consiste: 
-portal investimento web : Portal feito em Next.JS possilita o usuario a cadastrar na ferramenta de investimento e depois do login, fazer os aportes e saques na carteira. 
+
+<li>portal investimento web : Portal feito em Next.JS possilita o usuario a cadastrar na ferramenta de investimento e depois do login, fazer os aportes e saques na carteira. </li>
 PortalInvestimento.API : Modulo da API implementanda em C# com controlers utilizada pela aplicação. A ferramenta Web se comunica com a API para fazer todas as requisições de dados utilizados pela aplicação. 
 PortalInvestimento.Application: Modulo implementada em C# para layer Application do Clean Architecture, possui DTOs, Interfaces, Mapping e Services. 
 PortalInvestimento.Domain: Modulo implementado em C# para layer Domain do Clean Architecture, possui Entities, Interfaces e Validation. 
