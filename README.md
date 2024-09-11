@@ -16,11 +16,11 @@ O objetivo é demonstrar a capacidade de implementar um portal de investimentos 
 O projeto consiste: 
 
 <li>portal investimento web : Portal feito em Next.JS possilita o usuario a cadastrar na ferramenta de investimento e depois do login, fazer os aportes e saques na carteira. </li>
-PortalInvestimento.API : Modulo da API implementanda em C# com controlers utilizada pela aplicação. A ferramenta Web se comunica com a API para fazer todas as requisições de dados utilizados pela aplicação. 
-PortalInvestimento.Application: Modulo implementada em C# para layer Application do Clean Architecture, possui DTOs, Interfaces, Mapping e Services. 
-PortalInvestimento.Domain: Modulo implementado em C# para layer Domain do Clean Architecture, possui Entities, Interfaces e Validation. 
-PortalInvestimento.Domain.Test: Xunit Tests feitos em C# para testar o Domain do Clean Architecture. 
-PortalInvestimento.Infra.Data : Modulo implementado em C# com EF Framework para Layer Data do CleanArchitecture, possui os Migrations, Context e Repositories. 
+<li>PortalInvestimento.API : Modulo da API implementanda em C# com controlers utilizada pela aplicação. A ferramenta Web se comunica com a API para fazer todas as requisições de dados utilizados pela aplicação. </li>
+<li>PortalInvestimento.Application: Modulo implementada em C# para layer Application do Clean Architecture, possui DTOs, Interfaces, Mapping e Services. </li>
+<li>PortalInvestimento.Domain: Modulo implementado em C# para layer Domain do Clean Architecture, possui Entities, Interfaces e Validation. </li>
+<li>PortalInvestimento.Domain.Test: Xunit Tests feitos em C# para testar o Domain do Clean Architecture. </li>
+<li>PortalInvestimento.Infra.Data : Modulo implementado em C# com EF Framework para Layer Data do CleanArchitecture, possui os Migrations, Context e Repositories. </li>
 
 # :hammer: Funcionalidades do projeto
 
