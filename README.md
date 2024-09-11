@@ -81,13 +81,15 @@ Server:  C# .NET 8.
   
 # Pessoas Contribuidoras:
 Grupo 27 
+Alexandre Costa.
 Carlos Eduardo Felipe de Oliveira 
 Alexandre Costa.
   
 # Pessoas Desenvolvedoras do Projeto: 
 Grupo 27 
-Carlos Eduardo Felipe de Oliveira 
 Alexandre Costa.
+Carlos Eduardo Felipe de Oliveira 
+
 
 # Licença:
 Gratuita. 
