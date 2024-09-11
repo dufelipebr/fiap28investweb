@@ -36,6 +36,7 @@ Clean Architecture Model vs Front End
 
 ![Imagem do WhatsApp de 2024-09-11 à(s) 18 39 19_1282e900](https://github.com/user-attachments/assets/0e76cbd3-0c08-4364-8918-2d798ebae940)
 
+Escolhemos o clean architecture e EF para comunicação com o banco de dados sql na parte de infra, os layers de infra, domain e application ficam todos separados cada um correspondendo com o objetivo, o codigo fica isolado, e podemos ter tudo bem encapsulado. 
 
 # :hammer: Funcionalidades do projeto
 
