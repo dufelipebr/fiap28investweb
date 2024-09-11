@@ -85,7 +85,7 @@ Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
 # Inicialização do Projeto
 Para que a solução funcione adequadamente é necessário fazer o bootstrap dos projetos </br>
 ## Cliente 
-   - Instalar Node  20.11 (ou superior)
+- Instalar Node  20.11 (ou superior)
    - Apos no diretorio do app web instalar o Next e digitar SIM para tudo :
     npm install next@latest react@latest react-dom@latest
    - Instalar dependencias no diretorio web
@@ -95,8 +95,8 @@ Para que a solução funcione adequadamente é necessário fazer o bootstrap dos
      npm install @headlessui/react
 
 ## Servidor: 
-    - Alterar a ConnectionStrings no arquivo appsettings.json
-    - Abrir o Package Manager Console e rodar o comando update-database para adicionar o banco
+- Alterar a ConnectionStrings no arquivo appsettings.json
+- Abrir o Package Manager Console e rodar o comando update-database para adicionar o banco
 
 # Tecnologias utilizadas:
 
