@@ -32,7 +32,10 @@ O projeto consiste:
 
 # 🖋️ Desenho da Arquitetura 
 
-Verificar
+Clean Architecture Model vs Front End
+
+![Imagem do WhatsApp de 2024-09-11 à(s) 18 39 19_1282e900](https://github.com/user-attachments/assets/0e76cbd3-0c08-4364-8918-2d798ebae940)
+
 
 # :hammer: Funcionalidades do projeto
 
