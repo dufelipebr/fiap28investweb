@@ -1,5 +1,5 @@
 
-export function LoginInfo(): { username: string, password: string } | null 
+export function LoginInfo(): { username: string, email: string,  id: string, permission: number, token: string } | null 
 {
     const loginData = localStorage.getItem('loginInfo');
     
@@ -27,3 +27,4 @@ export function SaveLoginInfo(username: string, email: string, id:string, permis
     //     return JSON.parse(loginData);
     // }
 }
+

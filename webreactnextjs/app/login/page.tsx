@@ -1,11 +1,11 @@
 
 'use client'; 
 import { useState, useEffect } from 'react'
-import { login } from './api';
 import { HiMail, HiInformationCircle } from "react-icons/hi";
 import { Alert } from "flowbite-react";
 import { useRouter } from 'next/navigation';
 import { SaveLoginInfo } from '../lib/login';
+import { login } from '../lib/api';
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; // Regular expression for email validation
 const fetcher = (...args) => fetch(...args).then((res) => res.json())
@@ -67,22 +67,22 @@ export  default function Page()
   const handleSubmit = async (event) => 
   {
     event.preventDefault();
-    console.log('Email:' + formData.email);
-    console.log('Pwd:' + formData.password);
     setLoading(true);
     if (!errors.email) 
       var result = await login(formData.email, formData.password)
 
-    setLoading(false); 
-    if (result?.message == 'Login success')
+   
+    console.log(result);
+    if (result?.mensagem == 'Login success')
     {
       setErrorDisplay(false);
-      SaveLoginInfo(result.data.nome, result.data.email, result.data.id, result.data.tipoPermissao, result.data.token);
+      SaveLoginInfo(result.usuario.nome, result.usuario.email, result.usuario.id, result.usuario.tipoPermissao, "");
       router.push('./investimento/');
     } 
     else
     {
-      setValidationMessage('usuario e ou senha não encontrados, verifique as informações.');
+      setLoading(false); 
+      setValidationMessage(result?.mensagem);
       setErrorDisplay(true);
     }
 
@@ -135,8 +135,7 @@ export  default function Page()
                 <input
                   id="email"
                   name="email"
-                  type="email"
-                  autoComplete="email"
+                  type="text"
                   required
                   value={formData.email}
                   onChange={handleChange}

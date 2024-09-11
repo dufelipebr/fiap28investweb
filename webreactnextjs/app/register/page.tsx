@@ -249,7 +249,7 @@ export default function Page()
     console.log(result);  
     if (result != null)
     {
-      if (result == "Ok")
+      if (result == "OK")
       {
         setValidationMessage('Cadastro realizado com sucesso');
         setErrorDisplay(true);
