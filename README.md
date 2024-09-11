@@ -10,7 +10,7 @@ Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega T
 
 # Descrição do Projeto
 
-Esse projeto é o trabalho de conclusão do modulo 5 da FIAP PosTech grupo 27 realizados por Carlos E. F. de Oliveira e Alexandre Costa. 
+Esse projeto é o trabalho de conclusão do modulo 5 da FIAP PosTech grupo 27. </ br>
 O objetivo é demonstrar a capacidade de implementar um portal de investimentos utilizando os recursos passados em aula, colocando em pratica o desenvolvimento de Clean Architecture, EF Framework, API & Microservices. 
 
 O projeto consiste: 
