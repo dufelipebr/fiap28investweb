@@ -40,7 +40,7 @@ Permite a criação de usuario para fazer onboarding do investimento.
   
 - `Investimento`
 
-Permite aporte de Ativo na carteira (portfolio).
+Permite aporte de Ativo\Saque na carteira (portfolio).
 
 - ![image](https://github.com/user-attachments/assets/0fee9bb4-a51d-4441-9646-e716c5ed9d1a)
 
@@ -52,6 +52,9 @@ Permite aporte de Ativo na carteira (portfolio).
 6) Clicar em Aporte
 
    Resultado esperado: Sistema incluo nova transação no portfolio escolhido.
+
+   Saque: Para sacar é a mesmo fluxo porem clicando no botão Sacar, importante que a aplicação faça o
+   controle de saldo não permitindo o saque maior que o valor aplicado no ativo\portfolio. 
       
 - 'Portfolio'
 
