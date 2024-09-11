@@ -7,16 +7,68 @@ Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega T
 ![GitHub Org's stars](https://img.shields.io/github/stars/dufelipebr?style=social)
 
 
-    Título e Imagem de capa;
-    Badges;
-    Índice;
-    Descrição do Projeto;
+
+#Descrição do Projeto
+
+Esse projeto é o trabalho de conclusão do modulo 5 da FIAP PosTech grupo 27 realizados por Carlos E. F. de Oliveira e Alexandre Costa. 
+O objetivo é demonstrar a capacidade de implementar um portal de investimentos utilizando os recursos passados em aula, colocando em pratica o desenvolvimento de Clean Architecture, EF Framework, API & Microservices. 
+O projeto consiste: 
+portal investimento web : Portal feito em Next.JS possilita o usuario a cadastrar na ferramenta de investimento e depois do login, fazer os aportes e saques na carteira. 
+PortalInvestimento.API : Modulo da API implementanda em C# com controlers utilizada pela aplicação. A ferramenta Web se comunica com a API para fazer todas as requisições de dados utilizados pela aplicação. 
+PortalInvestimento.Application: Modulo implementada em C# para layer Application do Clean Architecture, possui DTOs, Interfaces, Mapping e Services. 
+PortalInvestimento.Domain: Modulo implementado em C# para layer Domain do Clean Architecture, possui Entities, Interfaces e Validation. 
+PortalInvestimento.Domain.Test: Xunit Tests feitos em C# para testar o Domain do Clean Architecture. 
+PortalInvestimento.Infra.Data : Modulo implementado em C# com EF Framework para Layer Data do CleanArchitecture, possui os Migrations, Context e Repositories. 
+
+# :hammer: Funcionalidades do projeto
+
+- `Login`: Permite o login na ferramenta de investimento.
+![image](https://github.com/user-attachments/assets/5ffd5de4-4b41-4882-84bb-1b4d2890250b)
+
+Colocar o usuario e senha para fazer o login na ferramenta. 
+
+- `Criação de Usuario`: Permite a criação de usuario para fazer onboarding do investimento.
+![image](https://github.com/user-attachments/assets/934a0388-7190-4767-a48e-2f8a97d9a1a5)
+
+Colocar o nome, email e senha para poder acessar a aplicação, após isso tentar efetuar o login. 
+  
+- `Investimento`: Permite aporte de Ativo na carteira (portfolio).
+
+- ![image](https://github.com/user-attachments/assets/0fee9bb4-a51d-4441-9646-e716c5ed9d1a)
+
+1) Informar o portfolio
+2) Informar o Tipo de Ativo (CDB, Ações, CDI, LDI\LDA, Tesouro e Cripto)
+3) Informar o Ativo preprenchido.
+4) Verificar o preço informado
+5) Inserir a quantidade desejada do Ativo.
+6) Clicar em Aporte
+
+   Resultado esperado: Sistema incluo nova transação no portfolio escolhido.
+      
+- 'Portfolio': Permite fazer o inclusão de novos portfolios.
+- ![image](https://github.com/user-attachments/assets/63d935ee-496a-4de5-9b92-8ad0c4d8c020)
+
+1) Digitar o Portfolio
+2) Clicar no botão Criar Portfolio
+
+   Resultado Esperado: Sistema irá criar o novo portfolio do usuario. 
+
+
+
     Status do Projeto;
     Funcionalidades e Demonstração da Aplicação;
-    Acesso ao Projeto;
-    Tecnologias utilizadas;
-    Pessoas Contribuidoras;
-    Pessoas Desenvolvedoras do Projeto;
-    Licença.
+    #Acesso ao Projeto:
+       Modulo Cliente -  https://github.com/dufelipebr/fiap28investweb/
+       Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
+  
+    #Tecnologias utilizadas:
+        Cliente: React, Next.JS,
+        Server:  C# .NET 8.
+  
+    Pessoas Contribuidoras:
+         Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
+  
+    Pessoas Desenvolvedoras do Projeto: Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
+    Licença: Gratuita. 
 
 
