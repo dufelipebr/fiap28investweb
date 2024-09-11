@@ -86,9 +86,9 @@ Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
 Para que a solução funcione adequadamente é necessário fazer o bootstrap dos projetos </br>
 ## Cliente 
 - Instalar Node  20.11 (ou superior)
-   - Apos no diretorio do app web instalar o Next e digitar SIM para tudo :
+- Após no diretorio do app web instalar o Next e digitar SIM para tudo :
     npm install next@latest react@latest react-dom@latest
-   - Instalar dependencias no diretorio web
+- Instalar dependencias no diretorio web
      npm install @flowbite-react/react
      npm install @heroicons/react
      npm install dateformat
