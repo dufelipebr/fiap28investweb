@@ -32,6 +32,8 @@ O projeto consiste:
 
 # 🖋️ Desenho da Arquitetura 
 
+Verificar
+
 # :hammer: Funcionalidades do projeto
 
 - `Login`
