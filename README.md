@@ -8,7 +8,7 @@ Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega T
 
 
 
-#Descrição do Projeto
+# Descrição do Projeto
 
 Esse projeto é o trabalho de conclusão do modulo 5 da FIAP PosTech grupo 27 realizados por Carlos E. F. de Oliveira e Alexandre Costa. 
 O objetivo é demonstrar a capacidade de implementar um portal de investimentos utilizando os recursos passados em aula, colocando em pratica o desenvolvimento de Clean Architecture, EF Framework, API & Microservices. 
@@ -53,22 +53,18 @@ Colocar o nome, email e senha para poder acessar a aplicação, após isso tenta
 
    Resultado Esperado: Sistema irá criar o novo portfolio do usuario. 
 
-
-
-    Status do Projeto;
-    Funcionalidades e Demonstração da Aplicação;
-    #Acesso ao Projeto:
+# Acesso ao Projeto:
        Modulo Cliente -  https://github.com/dufelipebr/fiap28investweb/
        Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
   
-    #Tecnologias utilizadas:
+# Tecnologias utilizadas:
         Cliente: React, Next.JS,
         Server:  C# .NET 8.
   
-    Pessoas Contribuidoras:
+# Pessoas Contribuidoras:
          Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
   
-    Pessoas Desenvolvedoras do Projeto: Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
-    Licença: Gratuita. 
+# Pessoas Desenvolvedoras do Projeto: Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
+# Licença: Gratuita. 
 
 
