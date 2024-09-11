@@ -22,17 +22,25 @@ PortalInvestimento.Infra.Data : Modulo implementado em C# com EF Framework para 
 
 # :hammer: Funcionalidades do projeto
 
-- `Login`: Permite o login na ferramenta de investimento.
+- `Login`
+
+Permite o login na ferramenta de investimento.
+
 ![image](https://github.com/user-attachments/assets/5ffd5de4-4b41-4882-84bb-1b4d2890250b)
 
-Colocar o usuario e senha para fazer o login na ferramenta. 
+1) Colocar o usuario e senha para fazer o login na ferramenta. 
 
-- `Criação de Usuario`: Permite a criação de usuario para fazer onboarding do investimento.
+- `Criação de Usuario`
+
+Permite a criação de usuario para fazer onboarding do investimento.
+
 ![image](https://github.com/user-attachments/assets/934a0388-7190-4767-a48e-2f8a97d9a1a5)
 
-Colocar o nome, email e senha para poder acessar a aplicação, após isso tentar efetuar o login. 
+1) Colocar o nome, email e senha para poder acessar a aplicação, após isso tentar efetuar o login. 
   
-- `Investimento`: Permite aporte de Ativo na carteira (portfolio).
+- `Investimento`
+
+Permite aporte de Ativo na carteira (portfolio).
 
 - ![image](https://github.com/user-attachments/assets/0fee9bb4-a51d-4441-9646-e716c5ed9d1a)
 
@@ -45,7 +53,10 @@ Colocar o nome, email e senha para poder acessar a aplicação, após isso tenta
 
    Resultado esperado: Sistema incluo nova transação no portfolio escolhido.
       
-- 'Portfolio': Permite fazer o inclusão de novos portfolios.
+- 'Portfolio'
+
+  Permite fazer o inclusão de novos portfolios.
+  
 - ![image](https://github.com/user-attachments/assets/63d935ee-496a-4de5-9b92-8ad0c4d8c020)
 
 1) Digitar o Portfolio
