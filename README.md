@@ -4,6 +4,11 @@ Modulo Cliente desenvolvido em React + Next.JS do PortalInvestimento - Entrega T
 ![pexels-pixabay-534216](https://github.com/user-attachments/assets/4cbe0e8e-7614-4a6c-aacd-6b863a31147b)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Cliente&message=Next.Js&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Server&message=C#&color=GREEN&style=for-the-badge)
+
+
+ 
 ![GitHub Org's stars](https://img.shields.io/github/stars/dufelipebr?style=social)
 
 
