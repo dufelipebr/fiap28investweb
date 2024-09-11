@@ -81,7 +81,23 @@ Permite aporte de Ativo\Saque na carteira (portfolio).
 
 Modulo Cliente -  https://github.com/dufelipebr/fiap28investweb/ </br>
 Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
-  
+
+# Inicialização do Projeto
+Para que a solução funcione adequadamente é necessário fazer o bootstrap dos projetos </br>
+Cliente 
+   - Instalar Node  20.11 (ou superior)
+   - Apos no diretorio do app web instalar o Next e digitar SIM para tudo :
+    npm install next@latest react@latest react-dom@latest
+   - Instalar dependencias no diretorio web
+     npm install @flowbite-react/react
+     npm install @heroicons/react
+     npm install dateformat
+     npm install @headlessui/react
+
+Servidor: 
+    - Alterar a ConnectionStrings no arquivo appsettings.json
+    - Abrir o Package Manager Console e rodar o comando update-database para adicionar o banco
+
 # Tecnologias utilizadas:
 
 <li>Cliente:</li> React, Next.JS </br>
