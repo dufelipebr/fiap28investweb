@@ -54,14 +54,17 @@ Colocar o nome, email e senha para poder acessar a aplicação, após isso tenta
    Resultado Esperado: Sistema irá criar o novo portfolio do usuario. 
 
 # Acesso ao Projeto:
+
        Modulo Cliente -  https://github.com/dufelipebr/fiap28investweb/
        Modulo Server  - https://github.com/AcostaTI/PortalInvestimento/
   
 # Tecnologias utilizadas:
+
         Cliente: React, Next.JS,
         Server:  C# .NET 8.
   
 # Pessoas Contribuidoras:
+
          Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
   
 # Pessoas Desenvolvedoras do Projeto: Grupo 27 - Carlos Eduardo Felipe de Oliveira - Alexandre Costa.
