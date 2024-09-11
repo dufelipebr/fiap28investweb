@@ -86,7 +86,6 @@ Carlos Eduardo Felipe de Oliveira </br>
 
   
 # Pessoas Desenvolvedoras do Projeto: 
-</br>
 Grupo 27 </br>
 Alexandre Costa.</br>
 Carlos Eduardo Felipe de Oliveira </br>
